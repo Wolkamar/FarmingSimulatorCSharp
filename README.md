@@ -1,0 +1,2 @@
+# FarmingSimulatorCPP
+Simple farming clicker
