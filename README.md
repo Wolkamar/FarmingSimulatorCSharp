@@ -1,7 +1,7 @@
-# FarmingSimulatorCPP
+# FarmingSimulatorCSharp
 Simple farming clicker
 
-Run .exe in Debug folder, or you may need to update paths to some files used by game.
+Run .exe in bin\Debug folder, or you may need to update paths to some files used by game.
 
 Set game speed and go sell some carrots!
 
